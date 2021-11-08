@@ -1,1 +1,9 @@
-Flask==1.0.2
+Flask>=1.0,<=1.1.2
+flask_jsonpify
+flask_cors
+numpy
+pandas
+seaborn
+pmdarima
+pyspark
+pyodbc
